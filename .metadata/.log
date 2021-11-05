@@ -1,0 +1,18 @@
+!SESSION 2021-11-05 09:59:10.951 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-05 09:59:26.245
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-05 09:59:26.367
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-05 09:59:37.716
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-05 10:00:26.398
+!MESSAGE Indexed 'ADC_Polling' (25 sources, 56 headers) in 7.79 sec: 6,170 declarations; 26,048 references; 26 unresolved inclusions; 376 syntax errors; 5,476 unresolved names (15%)
