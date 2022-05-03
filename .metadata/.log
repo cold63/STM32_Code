@@ -576,3 +576,42 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/D:/Project
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-04-04 15:28:59.659
 !MESSAGE Indexed 'K051K8TMCUConfig' (25 sources, 85 headers) in 16.8 sec: 5,191 declarations; 33,044 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0052%)
+!SESSION 2022-05-03 21:38:17.700 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-05-03 21:38:23.100
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-05-03 21:38:41.229
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-05-03 21:38:41.462
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-05-03 21:39:07.713
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-03 21:40:18.304
+!MESSAGE Indexed 'K051KRunPWM' (27 sources, 107 headers) in 11.7 sec: 9,828 declarations; 59,686 references; 2 unresolved inclusions; 33 syntax errors; 188 unresolved names (0.27%)
+!SESSION 2022-05-03 21:42:27.692 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-05-03 21:42:35.074
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-05-03 21:42:35.303
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-05-03 21:42:52.319
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-03 21:44:45.090
+!MESSAGE Indexed 'K051KRunPWM' (27 sources, 107 headers) in 13.9 sec: 9,828 declarations; 59,686 references; 2 unresolved inclusions; 33 syntax errors; 188 unresolved names (0.27%)

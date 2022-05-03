@@ -5,10 +5,14 @@
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Project\STM32\CubeIDE_Workspace\K051KRunPWM"/>
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\Project\Blog_Resource\pwm.zip"/>
+			<item value=""/>
 			<item value="D:\ADC_DMA.zip"/>
 			<item value="D:\ADC_Polling.zip"/>
 		</list>
