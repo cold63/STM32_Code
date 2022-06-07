@@ -9,3 +9,5 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Polling/activeLaunchMode=ru
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Polling/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:K051KRunPWM/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:K051KRunPWM/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:L476G-LCD\ Release/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:L476G-LCD\ Release/activeLaunchTarget=null\:---

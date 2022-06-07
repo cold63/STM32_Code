@@ -1,0 +1,10 @@
+main.c:139:1:__io_putchar	16	static
+main.c:150:6:lcd_send_cmd	24	static
+main.c:166:6:lcd_send_data	24	static
+main.c:182:6:lcd_clear	8	static
+main.c:189:6:lcd_Init	8	static
+main.c:214:6:lcd_send_string	8	static
+main.c:223:6:lcd_put_cur	0	static
+main.c:232:6:SystemClock_Config	96	static,ignoring_inline_asm
+main.c:84:5:main	40	static,ignoring_inline_asm
+main.c:396:6:Error_Handler	0	static,ignoring_inline_asm
