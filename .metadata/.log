@@ -633,3 +633,54 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-06-07 17:56:07.072
 !MESSAGE Indexed 'L476G-LCD' (25 sources, 59 headers) in 8.18 sec: 8,511 declarations; 41,907 references; 18 unresolved inclusions; 357 syntax errors; 4,170 unresolved names (7.6%)
+!SESSION 2022-08-09 10:13:36.639 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-09 10:13:56.392
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-09 10:13:56.721
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-09 10:14:15.278
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-08-09 10:18:21.362 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-09 10:18:31.169
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-09 10:18:31.519
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-09 10:18:45.646
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-09 10:19:31.192
+!MESSAGE Indexed 'Freertos_M4F' (34 sources, 103 headers) in 12.1 sec: 11,645 declarations; 54,292 references; 20 unresolved inclusions; 467 syntax errors; 3,561 unresolved names (5.1%)
+!SESSION 2022-08-09 10:30:41.637 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-09 10:30:51.998
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-09 10:30:52.221
+!MESSAGE Log4j initialized with config file D:\Project\Blog_Resource\Dreams_and_actions\STM32_Code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-09 10:31:15.456
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-09 10:31:36.867
+!MESSAGE Indexed 'Freertos_M4F' (34 sources, 128 headers) in 9.76 sec: 12,810 declarations; 57,589 references; 9 unresolved inclusions; 467 syntax errors; 1,681 unresolved names (2.3%)

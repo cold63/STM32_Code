@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Freertos_M4F&apos;" deleteContents="true" description="Delete resource &apos;Freertos_M4F&apos;" element1="/Freertos_M4F" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1660012278108"/>
+</session>

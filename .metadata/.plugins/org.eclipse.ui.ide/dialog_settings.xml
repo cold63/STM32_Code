@@ -7,10 +7,12 @@
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="D:\Project\STM32\CubeIDE_Workspace\K051KRunPWM"/>
 			<item value=""/>
+			<item value="D:\Project\STM32\CubeIDE_Workspace\K051KRunPWM"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\Project\Blog_Resource\Freertos_M4F.zip"/>
+			<item value="D:\Project\Blog_Resource\L476-LCD.zip"/>
 			<item value="D:\Project\Blog_Resource\pwm.zip"/>
 			<item value=""/>
 			<item value="D:\ADC_DMA.zip"/>
